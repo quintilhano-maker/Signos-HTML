@@ -18,6 +18,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
     let tags = "";
 
     // Itera sobre cada dado na lista de dados
+    
     for (let dado of dados) {
         titulo = dado.titulo.toLowerCase()
         descricao = dado.descricao.toLowerCase()
