@@ -1,3 +1,4 @@
+//módulo de busca implementado
 function pesquisar() {
     // Seleciona a seção onde os resultados serão exibidos
     let section = document.getElementById("resultados-pesquisa");
