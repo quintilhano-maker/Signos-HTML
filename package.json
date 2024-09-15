@@ -1,0 +1,16 @@
+{
+  "name": "sdsd",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório **Signos-HTML**! Este projeto é uma aplicação simples de Horóscopo que permite aos usuários pesquisar e obter informações sobre diferentes signos do zodíaco. Cada signo possui uma breve descrição e um link para mais informações.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node": "^22.8.0"
+  },
+  "devDependencies": {}
+}
